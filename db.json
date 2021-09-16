@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "title": "New Post ",
+      "body": "New content post",
+      "image": "https://images.unsplash.com/photo-1631260947893-1e29516d5183?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "author": "",
+      "id": 1
+    },
+    {
+      "title": "Post 2",
+      "body": "body of post",
+      "image": "https://images.unsplash.com/photo-1631260947893-1e29516d5183?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "author": "admin",
+      "id": 2
+    }
+  ]
+}
